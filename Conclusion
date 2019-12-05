@@ -1,0 +1,7 @@
+1. In ML models on featurized data,  Logistic regression or Linear SVC or rbf SVM outperformed tree based models like Decision trees, random forest and GBDT.
+
+2. Using ML models the highest accuracy obtained was 96.61%
+
+3. In DL we used simple LSTM with 2 layers containg 32 and 6 cells in first and second layer resp. 
+
+4. We obtained 90%+ accuracy on raw data which can be improved with change in architecture by hyperparam tuning.
