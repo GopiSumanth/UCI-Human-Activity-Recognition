@@ -27,3 +27,6 @@ The data is recorded with the help of sensors (accelerometer and Gyroscope) in t
 * We get a feature vector of 561 features and these features are given in the dataset.
 
 * Each window of readings is a datapoint of 561 features.
+
+
+### PPT with animation plots made using R. Source: https://onedrive.live.com/edit.aspx?resid=EE3C84565BE72D66!2670&ithint=file%2cpptx&authkey=!AA1Q4xTU68kq9c8
