@@ -2,7 +2,7 @@
 This project is to build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.  
 This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. 
 The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually.
-
+* The dataset can be downloaded from https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
 # Quick overview of the dataset :
 * Accelerometer and Gyroscope readings are taken from 30 volunteers(referred as subjects) while performing the following 6 Activities.
 
